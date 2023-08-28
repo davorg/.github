@@ -13,3 +13,7 @@ Enjoy!
 1. Contact the admin for this organization.
 2. Reach out to us in [#github-cpan-authors](https://perlfoundation.slack.com/archives/C05Q03HNQ76/p1693263853924999) on TPF Slack
 
+# Code of Conduct
+
+Please note, that repositories maintained here fall under a [Code of Conduct](CODE_OF_CONDUCT.md)
+
