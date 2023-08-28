@@ -15,5 +15,5 @@ Enjoy!
 
 # Code of Conduct
 
-Please note, that repositories maintained here fall under a [Code of Conduct](CODE_OF_CONDUCT.md)
+Please note, that repositories maintained here fall under a [Code of Conduct](/profile/CODE_OF_CONDUCT.md)
 
