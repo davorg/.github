@@ -1,4 +1,4 @@
-# Introducion
+# Introduction
 
 This organization has been setup to provide a place for CPAN authors to collaborate more easily.
 
